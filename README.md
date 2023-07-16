@@ -16,6 +16,8 @@ The project consists of the following components:
    •Two Excel files: The original data sources from which the data was imported.
    
 3. Crowdfunding_db_schema: contains the table schema for the Postgres database
+   ![alt text](crowdfunding_db.png)
+   
 
 To use this project, follow the instructions below:
 
