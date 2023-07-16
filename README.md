@@ -2,6 +2,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 # Description
 This project aims to build an Extract, Transform, and Load (ETL) pipeline using Python, Pandas, and regular expressions. The main goal is to extract data from various sources, perform transformations on the data, and ultimately create four CSV files. These CSV files will serve as inputs for generating an Entity-Relationship Diagram (ERD) and a table schema. Finally, the transformed data will be loaded into a Postgres database.
