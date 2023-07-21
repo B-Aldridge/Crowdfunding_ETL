@@ -13,10 +13,12 @@ The project consists of the following components:
 1. ETL_Mini_Project: The script responsible for extracting and transforming the data.
 
 2. Resources Folder: Contains the necessary files for the ETL pipeline, including:
+   
    •Four CSV files: These files store the transformed data after extraction and processing.
+   
    •Two Excel files: The original data sources from which the data was imported.
    
-3. Crowdfunding_db_schema: contains the table schema for the Postgres database
+4. Crowdfunding_db_schema: contains the table schema for the Postgres database
    ![alt text](crowdfunding_db.png)
    
 
