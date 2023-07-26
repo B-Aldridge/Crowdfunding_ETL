@@ -6,11 +6,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
-**Answer:** When looking at the healthy loans, '0', the model shows precision as 1.00, recall as .99, and a f1-score as 1.00. The precision of 1.00 indicates that the model is correct 100% of the time and would have a signicantly low chance of producing a false positive. The recall of .99 indicates that the model correctly identifies all the healthy loans that are contained in this dataset with a 99% accuracy. The f1-score is  1.00 which suggests that there is a good balance between the precision and recall.
+# Forked Project Note:
 
-When looking at high-risk loans, '1', the model shows precision is .85, the recall is .99, and f1-score is .99. The precision at .86 indicates the model correctly predicts a high risk loan 86% of the time. The recall of .99 indicates that the model correctly identifies all the high risk loans 99% of the time. the f1-score of .88 indictaes a good balance between the precision and recall.
-
-It is relatively good in predicting both high risk loans and healthy loans but is stronger in predicting healthy loans as was the model for the first question. Using the resampling led to the recall on high risk loans improving to 99% with precision decreasing to 85% and the f1-score increasing to 92%
+I forked this group project to add a useful description that was missing. As a contributor to the original project, I believe this addition will enhance its visibility and usefulness. Feel free to check out the original project [here](https://github.com/talaverak/Crowdfunding_ETL)
 
 # Description
 This project aims to build an Extract, Transform, and Load (ETL) pipeline using Python, Pandas, and regular expressions. The main goal is to extract data from various sources, perform transformations on the data, and ultimately create four CSV files. These CSV files will serve as inputs for generating an Entity-Relationship Diagram (ERD) and a table schema. Finally, the transformed data will be loaded into a Postgres database.
